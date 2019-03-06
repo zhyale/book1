@@ -33,7 +33,8 @@ func EncryptWithKey(plaintext []byte, key []byte) []byte {
 
 func main() {    
     plaintext := "123456"
-    key := GenerateRandomBytes(32) // for AES256
+	key := GenerateRandomBytes(32) // for AES256
+	fmt.Println("key:\n", hex.EncodeToString(key))
     cipher := EncryptWithKey([]byte(plaintext), key)
     fmt.Println("Cipher bytes:\n", cipher)
     fmt.Println("Cipher Hex:\n", hex.EncodeToString(cipher))
