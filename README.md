@@ -1,6 +1,8 @@
 # 数据安全架构设计与实战
 
-《数据安全架构设计与实战》开启预售，预售地址：[北京华章图书天猫专营店](https://detail.tmall.com/item.htm?spm=a230r.1.14.13.70094303eULbfr&id=605489592549&cm_id=140105335569ed55e27b&abbucket=13)   
+《数据安全架构设计与实战》开启预售，预售地址：   
+1.[互动出版网](http://product.china-pub.com/8064256)  
+2.[北京华章图书天猫专营店](https://detail.tmall.com/item.htm?spm=a230r.1.14.13.70094303eULbfr&id=605489592549&cm_id=140105335569ed55e27b&abbucket=13)   
 
 ![数据安全架构设计与实战](images/datasecurity.jpg)  
 
