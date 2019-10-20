@@ -1,8 +1,11 @@
 # 数据安全架构设计与实战
 
-《数据安全架构设计与实战》开启预售，预售地址：   
-1.[互动出版网](http://product.china-pub.com/8064256)  
-2.[北京华章图书天猫专营店](https://detail.tmall.com/item.htm?spm=a230r.1.14.13.70094303eULbfr&id=605489592549&cm_id=140105335569ed55e27b&abbucket=13)   
+《数据安全架构设计与实战》各大电商平台开启预售，预售地址包括但不限于：   
+
+1.京东：[互动出版网图书专营店](https://item.jd.com/59335139749.html)  
+2.天猫：[北京华章图书专营店](https://detail.tmall.com/item.htm?spm=a230r.1.14.13.70094303eULbfr&id=605489592549&cm_id=140105335569ed55e27b&abbucket=13)   
+3.当当：[北京华章图书旗舰店](http://product.dangdang.com/1532456425.html)  ，[当当自营](http://product.dangdang.com/28472722.html)  
+4.[互动出版网](http://product.china-pub.com/8064256)  
 
 ![数据安全架构设计与实战](images/datasecurity.jpg)  
 
@@ -492,9 +495,12 @@
 参考文献  
 
 # 读者交流  
-QQ群：879622682 （数据安全交流）  
-![数据安全](images/879622682.png)  
 
 微信公众号：数据安全架构与治理（Data-Security）   
 ![数据安全架构与治理微信公众号](images/WeixinDataSecurity.png)   
+
+QQ群：879622682 （数据安全交流）  
+![数据安全](images/879622682.png)  
+
+
 
