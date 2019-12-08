@@ -2,6 +2,8 @@
 
 《数据安全架构设计与实战》各大电商平台（京东、天猫、当当 等）有售。 
 
+* [京东自营《数据安全架构设计与实战》](https://union-click.jd.com/jdc?e=&p=AyIGZRtYFAcXBFIZWR0yEgRTGVsTARs3EUQDS10iXhBeGlcJDBkNXg9JHU4YDk5ER1xOGRNLGEEcVV8BXURFUFdfC0RVU1JRUy1OVxUBFAVVHVgcMgxyHHAETnVkZDN9AGhRZAVTRCBwQ3ILWStbFgcTD1YrWxQDEQdUH1MVCyI3VRhrR2zKsePD%2FqQexq3aztOCMhIPUhtZEQYXDlIrWxEEFg5UHVMUARIHXStcFQsiaTEYNSUyEgRTGVsTARs3VitrJQIiBGVZNRcLRQJTG18UAEYBUB4JQlYaBVQeCUALGgFUSA9CVxEFZRlaFAYb)  
+
 ![数据安全架构设计与实战](images/datasecurity.jpg)  
 
 # 专家评论  
