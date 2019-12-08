@@ -501,7 +501,7 @@
 # 读者交流  
 
 微信公众号：数据安全架构与治理（Data-Security）   
-![数据安全架构与治理微信公众号](images/WeixinDataSecurity.png)   
+![数据安全架构与治理微信公众号](images/Data-Security.png)   
 
 QQ群：879622682 （数据安全交流）  
 ![数据安全](images/879622682.png)  
