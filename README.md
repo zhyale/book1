@@ -107,7 +107,10 @@
 * 数据安全治理，包括如何设定战略，组织、建立数据安全文件体系，以及安全运营、合规与风险管理实践等。  
 * 隐私保护治理，包括隐私保护基础、隐私保护技术、隐私保护治理实践等。
 
+本书勘误详见：[勘误](https://github.com/zhyale/book1/blob/master/%E5%8B%98%E8%AF%AF.md) 。  
+
 本书使用的源代码发布在[https://github.com/zhyale/book1](https://github.com/zhyale/book1) ，欢迎读者在此提交问题或反馈意见。
+
 
 ## 安全理念  
 本书将使用如下安全理念：  
